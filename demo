@@ -1,1 +1,10 @@
 https://github.com/61124/lp5
+https://github.com/VaibhavGDeshpande/sem8/tree/main/LP5
+
+gcc -fopenmp omp_example.c -o omp_example
+
+./omp_example
+
+nvcc cuda_example.cu -o cuda_example
+
+./cuda_example
